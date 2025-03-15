@@ -36,7 +36,7 @@ public class EncontrarPares {
                 contPrimos += 1;
              }
         }
-        if (i % 2 ==1 ){
+        if (i% 2 ==1 ){
             contPrimos +=1 ;
         }
         System.out.println(contPrimos);
